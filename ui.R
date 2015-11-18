@@ -107,7 +107,7 @@ shinyUI(dashboardPage(skin="black",
                                         helpText(p(strong("This application is designed to compare statistics between the top 20 players in MLB history."))),
                                         
                                         helpText(p("Please contact",
-                                                   a(href ="https://twitter.com/danmalter", "Danny on twitter",target = "_blank"),
+                                                   a(href ="https://twitter.com/danmalter", "me on twitter",target = "_blank"),
                                                    " or at my",
                                                    a(href ="http://danmalter.github.io/", "personal page", target = "_blank"),
                                                    ", for more information, to suggest improvements or report errors.")),
